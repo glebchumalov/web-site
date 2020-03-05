@@ -1,3 +1,9 @@
 .current { color: green; }
 
 /*# sourceMappingURL=styles.css.map */
+.masthead {
+    padding: 1em;
+    background: #000531 url("../assets/13.png") no-repeat center center;
+    background-size: cover;
+
+}
