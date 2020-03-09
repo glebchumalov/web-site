@@ -11,6 +11,8 @@ html {
     background: #000531 url("../img/Logo.png");
     background-size: cover;
 
+    color: #fff;
+
 }
 
 .current {
