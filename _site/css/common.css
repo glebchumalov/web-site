@@ -5,6 +5,16 @@ html {
     font: normal 100%/1.4 Georgia,serif;
 }
 
+.masthead {
+
+    padding: 1em;
+    background: #000531 url("../img/Logo.png");
+    background-size: cover;
+
+    color: #fff;
+
+}
+
 .current {
     background-color: #000531;
     color: #fff;    
