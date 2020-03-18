@@ -1,8 +1,8 @@
 <nav>
-    <ul class"nav {{include.navclass}}">
+    <ul class="nav-top {{include.navclass}}">
 
-      <a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Home</a>
-      <a href="{{site.baseurl}}/news.html"class="{% if page.url == '/news.html' %}current{% endif %}">News</a>
+      <a href="{{site.baseurl}}/" class="{% if page.url == '/' %}currentblue{% else %}buttonblue{% endif %}">Home</a>
+      <a href="{{site.baseurl}}/about.html"class="{% if page.url == '/about.html' %}currentred{% else %}buttonred{% endif %}">About</a>
      
     </ul>
   </nav>

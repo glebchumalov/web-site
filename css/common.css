@@ -1,36 +1,54 @@
 html {
     margin: 0;
-    padding: 0;
+    padding: 0px 50px;
+    background-color: #1c1c1c;
 
     font: normal 100%/1.4 Georgia,serif;
+    text-align: center;   
+    
 }
 
 .masthead {
-
-    padding: 1em;
+    
+    padding-top: 300px;
     background: #000531 url("../img/Logo.png");
     background-size: cover;
-
+    background-position: center center;    
+    background-repeat: no-repeat;
     color: #fff;
 
 }
-
-.current {
-    background-color: #000531;
+.buttonblue {  
+    background-image: url("../img/ButtonBlue.png");
+    background-size: cover;
+    background-position: center center;
+    padding: 1%;
+    color: rgb(0, 0, 0);     
+}
+.currentblue {
+    background-image: url("../img/ButtonBlue.png");
+    background-size: cover;
+    background-position: center center;
+    padding: 1%;
+    color: #fff;    
+}
+.buttonred {  
+    background-image: url("../img/ButtonRed.png");
+    background-size: cover;
+    background-position: center center;
+    padding: 1%;
+    color: rgb(0, 0, 0);    
+}
+.currentred {
+    background-image: url("../img/ButtonRed.png");
+    background-size: cover;
+    background-position: center center;
+    padding: 1%;
     color: #fff;    
 }
 
-.nav {
-    margin: 0;
-    padding: 0;
-
-    list-style-type: none;
-}
-
-.nav > li {
-    display: inline-block;
-}
-
-.nav-top {
+.nav-top {   
     font-size: 1.25rem;
+    font: normal 100%/1.4 Verdana,Sans-serif;
+    padding: 0%;
 }
