@@ -1,13 +1,30 @@
 ---
 layout: default
-title: About
 ---
-# About Modest Hero
 
-Developer: Deniz Kayacan
-Release Date: 2020
-Website: www.amodesthero.com
-Platforms: PC (Microsoft Windows)
-Press Contact: amodestmail@gmail.com
-Social: https://twitter.com/DenizKayacan15
-Price: TBA
+
+<section class="container">
+    <div class="left-half">
+      <article>
+       Developer:<br>
+       Release Date:<br>
+       Website:<br>
+       Platforms:<br>
+       Press Contact:<br>
+       Social:<br>
+       Price:
+      </article>
+    </div>
+    <div class="right-half">
+      <article>
+        Deniz Kayacan<br>
+        2020<br>
+        www.amodesthero.com<br>
+        PC (Microsoft Windows)<br>
+        amodestmail@gmail.com<br>
+        https://twitter.com/DenizKayacan15<br>
+        TBA
+      </article>
+    </div>
+  </section>
+ 

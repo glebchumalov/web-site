@@ -1,22 +1,16 @@
 html {
     margin: 0;
     padding: 0px 50px;
-    background-color: #1c1c1c;
-
-    font: normal 100%/1.4 Georgia,serif;
-    text-align: center;   
-    
+    background-color: #1c1c1c;   
 }
 
-.masthead {
-    
+.masthead {    
     padding-top: 300px;
     background: #000531 url("../img/Logo.png");
     background-size: cover;
     background-position: center center;    
     background-repeat: no-repeat;
     color: #fff;
-
 }
 .buttonblue {  
     background-image: url("../img/ButtonBlue.png");
@@ -46,9 +40,68 @@ html {
     padding: 1%;
     color: #fff;    
 }
-
 .nav-top {   
     font-size: 1.25rem;
     font: normal 100%/1.4 Verdana,Sans-serif;
     padding: 0%;
 }
+
+
+/* Pen-specific styles */
+* {
+    box-sizing: border-box;
+  }
+  html, body, section, div {
+    margin-top: 1%;
+    
+    height: 80%;
+  }
+  
+  body { 
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 1rem;
+    line-height: 100%;
+    text-align: center;
+    
+  }
+  
+  section {
+    width: 100%;
+    margin-bottom: -5%;
+  }
+  
+  article {
+    position: relative;
+    
+    top: 50%;
+    left: 50%;
+    padding-left: 2em;
+    padding-right: 2em;
+    transform: translate(-50%, -50%);
+    
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    line-height: 100%;
+    margin: 0 0 0.75rem 0;
+  }
+  
+  /* Pattern styles */
+  .left-half {
+    /* background-color: #242f5e; */
+    background-color: #242f5e;
+    float: left;
+    width: 40%;
+    margin-left: 10%;    
+    text-align: right;
+    
+  }
+  .right-half {
+    /* background-color: #2c1d1d; */
+    background-color: #2c1d1d;
+    float: left;
+    width: 40%;
+    text-align: left;    
+  }

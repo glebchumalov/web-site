@@ -1,0 +1,18 @@
+I"û<h1 id="about-modest-hero">About Modest Hero</h1>
+
+<section class="container">
+    <div class="left-half">
+      <article>
+        <iframe width="320" height="180" src="https://www.youtube.com/embed/ziOS0i8jZrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      </article>
+    </div>
+    <div class="right-half">
+      <article>
+        <h1>About</h1>
+        <p></p>
+        <p>The violent clashes in the suburbs last night ended as a result of the militaryâ€™s harsh interventions. During the clashes, General Brea was killed brutally by a group of rebels. Seven people suspected of killing the general were arrested in next morning.</p>
+
+      </article>
+    </div>
+  </section>
+:ET

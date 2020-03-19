@@ -1,24 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8"> 
-  <title>Modest Hero</title>
-  <link href="/css/common.css" rel="stylesheet">
-</head>
-<body>
+I"A<p><br /></p>
 
-  <header class="masthead">    
-    <nav>
-    <ul class="nav-top nav-top">
-
-      <a href="/" class="buttonblue">Home</a>
-      <a href="/about.html"class="currentred">About</a>
-     
-    </ul>
-  </nav>
-  </header>  
-
-  <section class="container">
+<section class="container">
     <div class="left-half">
       <article>
        Developer:<br />
@@ -43,11 +25,4 @@
     </div>
   </section>
 
-
-
-  <footer>    
-    <p>© 2020 Modest Hero</p>   
-  </footer>
-  
-</body>
-</html>
+:ET
