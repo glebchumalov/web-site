@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: Parisiens Complain About the Prices and Wages
+title: Parisians Think They Don’t Earn Enough Money to Live On
 ---
 
-Parisian weaving workshop owners complain about raw material prices. Textile manufacturers, who maintain their situation with difficulty, complain that British goods make competition difficult. Wage paid to weave workers is not enough to feed their families.
+Parisian weaving mill owners complain about the cost of raw materials. Textile manufacturers, who hardly maintain their situation, claim that British goods are causing unfair competition. They also said that most weave workers don’t earn enough to feed their own families.
