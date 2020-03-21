@@ -45,8 +45,11 @@ html {
     font: normal 100%/1.4 Verdana,Sans-serif;
     padding: 0%;
 }
-
-
+articlee { 
+  float: left;      
+  text-align: justify;
+  width: 100%;
+}
 /* Pen-specific styles */
 * {
     box-sizing: border-box;
@@ -78,8 +81,7 @@ html {
     left: 50%;
     padding-left: 2em;
     padding-right: 2em;
-    transform: translate(-50%, -50%);
-    
+    transform: translate(-50%, -50%);    
   }
   
   h1 {
@@ -105,3 +107,4 @@ html {
     width: 40%;
     text-align: left;    
   }
+
