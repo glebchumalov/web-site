@@ -1,25 +1,32 @@
 html {
     margin: 0;
     padding: 0px 50px;
-    background-color: #1c1c1c;   
+    background-image: url("../img/13.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #000000;   
 }
 
-.masthead {    
-    padding-top: 300px;
-    background: #000531 url("../img/Logo.png");
+.masthead {  
+    padding-top: 300px;    
+    background: url("../img/Logo.png");
     background-size: cover;
     background-position: center center;    
     background-repeat: no-repeat;
     color: #fff;
 }
-.buttonblue {  
+.buttonblue {
+  
     background-image: url("../img/ButtonBlue.png");
     background-size: cover;
     background-position: center center;
     padding: 1%;
-    color: rgb(0, 0, 0);     
+    color: rgb(0, 0, 0);  
+   
 }
 .currentblue {
+  
     background-image: url("../img/ButtonBlue.png");
     background-size: cover;
     background-position: center center;
@@ -44,6 +51,7 @@ html {
     font-size: 1.25rem;
     font: normal 100%/1.4 Verdana,Sans-serif;
     padding: 0%;
+    margin-bottom: 25%;
 }
 articlee { 
   float: left;      
@@ -54,9 +62,7 @@ articlee {
 * {
     box-sizing: border-box;
   }
-  html, body, section, div {
-    margin-top: 1%;
-    
+  html, body, section, div {    
     height: 80%;
   }
   
@@ -70,8 +76,8 @@ articlee {
   }
   
   section {
-    width: 100%;
-    margin-bottom: -5%;
+    width: 100%;    
+    margin-bottom: -6%;
   }
   
   article {
@@ -100,7 +106,7 @@ articlee {
     width: 40%;
     margin-left: 10%;    
     text-align: right;
-    
+   
   }
   .right-half {
     /* background-color: #2c1d1d; */
@@ -109,6 +115,7 @@ articlee {
     background-position: center center;
     float: left;
     width: 40%;
-    text-align: left;    
+    text-align: left;
+     
   }
 
